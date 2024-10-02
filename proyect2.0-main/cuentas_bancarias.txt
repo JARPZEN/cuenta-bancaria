@@ -1,0 +1,7 @@
+100,ahorros,12.0
+100,ahorro,30.0
+200,corriente,50.0
+001,Ahorro,1500.00
+002,Corriente,2500.50
+003,Ahorro,1000.75
+004,Corriente,500.25500,ahorro,800.0
